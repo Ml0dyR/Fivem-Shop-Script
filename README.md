@@ -11,4 +11,4 @@
 
 ### Preview: 
 
-https://media.discordapp.net/attachments/1007403173830475836/1007405387022077953/unknown.png
+https://user-images.githubusercontent.com/106258149/200613638-d2e9f000-7491-4ca6-af81-62f1c6916df1.png
