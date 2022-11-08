@@ -17,5 +17,4 @@ Fivem Shop Script
 
 ### Preview: 
 
-
-https://cdn.discordapp.com/attachments/1007403173830475836/1007404033058803874/2022-08-09_20-17-37.mp4
+https://user-images.githubusercontent.com/1007403173830475836/1007404033058803874/2022-08-09_20-17-37.mp4
